@@ -1,0 +1,179 @@
+html {
+  margin: 0;
+}
+
+div {
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Arvo', serif;
+  background-color: #F6ECF0;
+}
+
+h1 {
+  width: 30%;
+  margin: 0 auto 0 auto;
+  font-family: 'Indie Flower', cursive;
+  font-size: 500%;
+  color: #CD5D7D;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Arvo', sans-serif;
+  margin: 50px auto 10px auto;
+  font-size: 2rem;
+  color: #CD5D7D;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Teko', sans-serif;
+  color: #11999E;
+  font-size: 2rem;
+}
+
+p {
+  margin: 0 auto;
+}
+
+hr {
+  border: none;
+  border-top: dotted 5px;
+  width: 5%;
+  color: #A7C5EB;
+  margin: 100px auto 100px auto;
+
+}
+
+.top-container {
+  background-color: #A7C5EB;
+  position: relative;
+  padding-top: 150px;
+}
+
+.middle-container {
+  background-color: white;
+  padding-top: 25px;
+}
+
+.bottom-container {
+  background-color: #A7C5EB;
+  height: 100px;
+  padding: 50px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 20%;
+  top: 50px;
+  width: 12%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 20%;
+  bottom: 250px;
+  width: 12%;
+}
+
+.mountain {
+  width: 30%
+}
+
+.intro-name {
+  position: relative;
+  top: 20%
+}
+
+.intro-blurb {
+  position: relative;
+  top: 20%
+}
+
+.skill-img {
+  background-color: #EAE3C8;
+  border-radius: 15%;
+  padding: 10px;
+  width: 20%;
+  height: 20%;
+}
+
+#skill1 {
+  float: left;
+  margin-right: 30px;
+}
+
+#skill2 {
+  float: right;
+  margin-left: 30px;
+}
+
+.Owl {
+  height: 150px;
+  background-color: #A7C5EB;
+  border-radius: 25%;
+  padding: 10px;
+  border: solid 10px;
+  border-color: #EAE3C8;
+  margin-top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skill-row p {
+  line-height: 2;
+}
+
+.profile {
+
+}
+
+.btn {
+  background-image: linear-gradient(#A7C5EB, #949CDF);
+  margin:auto;
+  width: 200px;
+  height: 75px;
+  border-radius: 8px;
+  border: none;
+  font-family: inherit;
+  font-weight: bold;
+  font-size: 150%;
+  text-decoration: none;
+  color: #F6ECF0;
+  padding: 30px 20px;
+  position: relative;
+  bottom: 55px;
+}
+
+.btn:hover {
+  background-image: linear-gradient(#F6ECF0, #949CDF );
+}
+
+.contact-me p {
+  width: 30%;
+  height: 150px;
+  margin: 20px auto 20px auto;
+  padding: 50px auto;
+}
+
+.footer-link {
+  text-decoration: none;
+  color: #11999E;
+  font-size: 1.1rem;
+  padding: 0 10px 0 10px;
+}
+
+.copyright {
+  margin-top: 50px;
+}
