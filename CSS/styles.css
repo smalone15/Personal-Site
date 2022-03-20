@@ -18,7 +18,7 @@ h1 {
   font-family: 'Indie Flower', cursive;
   font-size: 500%;
   color: #CD5D7D;
-  line-height: 2;
+  line-height: 1;
 }
 
 h2 {
@@ -223,3 +223,61 @@ hr {
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #949CDF;}
+
+/* CV */
+.cv {
+
+}
+
+.middle-container-cv {
+}
+
+.top-container-cv {
+  padding-bottom: 80px;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 50px;
+  text-align: left;
+}
+
+.hr-cv {
+  margin: 20px auto 0 auto;
+  width: 25%;
+}
+
+.h2-cv {
+  font-size: 1.8rem;
+  text-decoration: underline;
+}
+
+.h3-cv {
+  font-size: 1.3rem;
+  text-decoration: underline;
+}
+
+.box-cv {
+  display: flex;
+  align-items: center;
+  margin: 0px;
+}
+
+.cv-img {
+  width: 40px;
+  height: 40px;
+}
+
+.contact-me {
+  margin-left: 8%;
+}
+
+.Owl-cv {
+  width: 60px;
+  height: 60px;
+  padding-right: 40px;
+}
